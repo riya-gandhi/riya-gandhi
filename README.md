@@ -1,4 +1,4 @@
-👋 Hi, I’m @riya-gandhi
+👋 Hi, I’m Riya Gandhi
 <!-- - 👀 I’m interested in fitness and health for all. -->
 <!-- - 🌱 I’m currently learning image processing using fpga. -->
 <!-- - 💞️ I’m looking to collaborate on c++ projects. -->
